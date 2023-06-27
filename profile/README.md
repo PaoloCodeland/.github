@@ -4,3 +4,4 @@
 
 - 🌈 memoNote - https://paolocodeland.github.io/memoNote/
 - 👩‍💻 Paolo's Hacker News - https://paolocodeland.github.io/hacker-news/
+- 💲Tip Calculator - https://pd-tip-calculator.netlify.app
